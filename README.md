@@ -61,4 +61,4 @@ This project demonstrates how ServiceNow can be effectively used to *streamline 
 
 ---
 
-© 2025 – Team NM2025TMID02018
+Team NM2025TMID02018
